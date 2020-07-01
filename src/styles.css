@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-image: url(./assets/new-bgc.png);
+}
